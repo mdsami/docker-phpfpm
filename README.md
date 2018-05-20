@@ -1,7 +1,5 @@
-
 [![Docker Pulls](https://img.shields.io/docker/pulls/mdsami/docker-phpfpm.svg)](https://hub.docker.com/r/mdsami/docker-phpfpm/)
 
-PHP-FPM Docker container image 
 Table of Contents
 -------------------
 
